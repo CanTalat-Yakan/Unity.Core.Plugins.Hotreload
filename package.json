@@ -1,7 +1,7 @@
 {
-  "name": "com.unityessentials.core.plugins.hotreload",
-  "version": "1.0.2",
-  "displayName": "Core Plugins Hotreload",
+  "name": "com.unityessentials.editor.drawer.domainreload",
+  "version": "1.0.3",
+  "displayName": "Editor Drawer Domainreload",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
