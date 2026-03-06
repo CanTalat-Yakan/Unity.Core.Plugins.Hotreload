@@ -8,7 +8,7 @@ namespace UnityEssentials
     internal static class DomainReloadToolbarButton
     {
         static DomainReloadToolbarButton() =>
-            ToolbarExtender.LeftToolbarGUI.Add(OnToolbarGUI);
+            ToolbarHook.LeftToolbarGUI.Add(OnToolbarGUI);
 
         private static void OnToolbarGUI()
         {
