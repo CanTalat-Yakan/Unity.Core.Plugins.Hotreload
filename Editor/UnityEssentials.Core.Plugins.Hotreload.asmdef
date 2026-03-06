@@ -1,0 +1,17 @@
+{
+    "name": "UnityEssentials.Core.Plugins.Hotreload",
+    "rootNamespace": "UnityEssentials",
+    "references": [
+        "GUID:e8dc99fe4655895e782ff679856cba39",
+        "GUID:43aab4a50a5839e44af6c24ac5006688"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
